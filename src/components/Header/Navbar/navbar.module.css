@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95px;
+    height: 74px;
+}
+
+.link {
+
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height, or 147% */
+
+
+    color: #222222;
+
+}

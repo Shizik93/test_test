@@ -1,0 +1,41 @@
+.wrapper {
+    width: 940px;
+    height: 223px;
+    display: flex;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #333333;
+
+}
+
+.content {
+    height: 293px;
+    display: flex;
+    flex-direction: column;
+    width: 460px;
+
+
+}
+.logo{
+    width: 24px;
+    height: 20px;
+    margin-top: 48px;
+
+}
+
+
+.title {
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height, or 136% */
+    margin-top: 16px;
+}
+
+.text {
+    height: 66px;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 138% */
+    margin-top: 16px;
+}

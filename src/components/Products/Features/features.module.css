@@ -1,0 +1,7 @@
+.features{
+    display: flex;
+    margin-top: 74px;
+    justify-content: space-between;
+    width: 940px;
+    padding-bottom: 74px;
+}

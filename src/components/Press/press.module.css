@@ -1,0 +1,37 @@
+.press {
+    background: #3E5C50;
+    height: 145px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.wrapper {
+    width: 940px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+
+
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height, or 147% */
+
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.31);
+}
+
+.pressLogo {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}

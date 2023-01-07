@@ -1,0 +1,68 @@
+.metricBackground {
+    /* IMAGE */
+    background: url("../../assets/images/metrick-background.png"), #4DBD90;
+}
+.wrapper{
+    width: 940px;
+    height: 431px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    width: 412px;
+    height: 291px;
+
+
+}
+.title {
+    height: 88px;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    /* or 116% */
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+.subtitle {
+    height: 78px;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    /* or 130% */
+    margin-bottom: 25px;
+
+    color: #FFFFFF;
+}
+.buttons{
+    height: 48px;
+    display: flex;
+
+
+}
+.button{
+    width: 110px;
+    height: 48px;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+
+
+
+
+
+}
+.signBtn{
+    background: #000000;
+    box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.12);
+    border-radius: 3px;
+    color: #FFFFFF;
+    margin-right: 37px;
+}
